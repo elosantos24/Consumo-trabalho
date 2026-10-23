@@ -84,3 +84,8 @@ Essa é apenas uma representação dos arquivos fornecidos e da documentação s
 O Sistema Monitor Ecocampus mantém registros de consumo por local, permite adicionar novos dados e consultar um local específico. Na consulta, compara o consumo medido com o limite recomendado e apresenta o percentual de excesso. No exemplo da Faculdade, o consumo de 2.000 litros ultrapassa o limite de 1.500 litros em 33,33%.
 
 Para documentar a implementação com precisão — incluindo funções, estruturas de decisão, tratamento de arquivos e regras de classificação — é necessário analisar também o código-fonte da aplicação.
+
+Eloysa Raquel dos Santos - 47700971
+Rafael dos Santos Ferreira Lima - 47596295
+Cauã Correia de Andrade - 47766875
+Nathan Umbelino do Carmo - 47719567
