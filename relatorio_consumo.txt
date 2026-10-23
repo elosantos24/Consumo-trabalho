@@ -1,0 +1,31 @@
+ECOCAMPUS
+Locais analisados: 21
+Consumo total: 18980.10 litros
+Consumo medio: 903.81 litros
+Maior consumo RestauranteUniversitario
+2100.50 litros
+Menor consumo: Almoxarifado (150.00 litros)
+Locais em alerta: 13
+
+DETALHAMENTO POR LOCAL:
+Biblioteca | Consumo: 780.50L | Limite: 800.00L | Status: Dentro do limite
+Laboratorio1 | Consumo: 925.00L | Limite: 850.00L | Excesso: +8.82% | Status: Atencao
+Cantina | Consumo: 640.75L | Limite: 600.00L | Excesso: +6.79% | Status: Atencao
+BlocoA | Consumo: 710.00L | Limite: 750.00L | Status: Dentro do limite
+BlocoB | Consumo: 890.25L | Limite: 820.00L | Excesso: +8.57% | Status: Atencao
+Laboratorio2 | Consumo: 1100.00L | Limite: 1000.00L | Excesso: +10.00% | Status: Atencao
+AuditorioCentral | Consumo: 450.30L | Limite: 500.00L | Status: Dentro do limite
+Ginasio | Consumo: 1350.80L | Limite: 1200.00L | Excesso: +12.57% | Status: Atencao
+Reitoria | Consumo: 320.00L | Limite: 400.00L | Status: Dentro do limite
+RestauranteUniversitario | Consumo: 2100.50L | Limite: 1800.00L | Excesso: +16.69% | Status: Atencao
+BlocoC | Consumo: 680.00L | Limite: 700.00L | Status: Dentro do limite
+BlocoD | Consumo: 830.40L | Limite: 800.00L | Excesso: +3.80% | Status: Atencao
+LaboratorioQuimica | Consumo: 950.00L | Limite: 900.00L | Excesso: +5.56% | Status: Atencao
+AtelieArtes | Consumo: 290.10L | Limite: 350.00L | Status: Dentro do limite
+ComplexoDesportivo | Consumo: 1750.00L | Limite: 1600.00L | Excesso: +9.38% | Status: Atencao
+CentroConvivencia | Consumo: 520.60L | Limite: 500.00L | Excesso: +4.12% | Status: Atencao
+Almoxarifado | Consumo: 150.00L | Limite: 200.00L | Status: Dentro do limite
+OficinaManutencao | Consumo: 880.90L | Limite: 850.00L | Excesso: +3.64% | Status: Atencao
+EstudioComunicacao | Consumo: 410.00L | Limite: 450.00L | Status: Dentro do limite
+Datacenter | Consumo: 1250.00L | Limite: 1100.00L | Excesso: +13.64% | Status: Atencao
+Faculdade | Consumo: 2000.00L | Limite: 1500.00L | Excesso: +33.33% | Status: Critico
