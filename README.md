@@ -2,7 +2,7 @@ Sistema Monitor Ecocampus
 1. Sobre o projeto
 O Sistema Monitor Ecocampus é uma aplicação de terminal destinada a registrar e consultar o consumo de recursos em diferentes locais de um campus. A partir dos dados armazenados em um arquivo de texto, o sistema pode consultar o consumo de um local, comparar o valor medido com um limite recomendado e apresentar informações para acompanhamento.
 Nota sobre esta documentação: este README foi elaborado com base na captura de tela da execução e no arquivo consumo_campus.txt. O código-fonte da aplicação não foi fornecido; por isso, detalhes internos de implementação e regras completas de classificação ainda precisam ser confirmados.
-
+ 
 2. Funcionalidades demonstradas
 O menu principal apresenta quatro opções:
 1. Analisar consumo e gerar relatório — opção destinada à análise dos dados e à geração de um relatório.
