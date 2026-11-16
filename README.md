@@ -88,4 +88,4 @@ Para documentar a implementação com precisão — incluindo funções, estrutu
 Eloysa Raquel dos Santos - 47700971
 Rafael dos Santos Ferreira Lima - 47596295
 Cauã Correia de Andrade - 47766875
-Nathan Umbelino do Carmo - 47719567
+Nathan Umbelino do Carmo - 47719567 
